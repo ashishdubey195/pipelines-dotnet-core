@@ -13,7 +13,7 @@ using Microsoft.Extensions.DependencyInjection;
 namespace pipelines_dotnet_core
 {
     public class Startup
-    {   // Comment by Puneet to test CI...
+    {   // Comment by to test CI trigger...
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
